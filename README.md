@@ -12,9 +12,12 @@ Investigating the role of GP surgeries in shaping health and social inequalities
 
 ## Key Findings
 - **Substantial variation in GPs per capita and average appointment wait times:**
-  - GPs per capita (CV = 61%) and average appointment wait times (CV = 38%) are widely used healthcare access measures and both show significant variation.
+  - GPs per capita (CV = 61%) and average appointment wait times (CV = 38%) are both widely-used healthcare metrics.
 
-- **Limited correlation with health outcomes (urban local authorities only):**
+- **Rural GP surgeries have more support staff per GP, longer appointment waits and greater rates of usage:**
+  - Rural areas tend to have older populations that require more frequent GP appointments. Poor transport connectivity and limited nearby hospitals mean that rural GP surgeries must conduct at-home visits and provide a broader range of services than their urban counterparts. **Please see the dashboard for more information.** 
+
+- **GPs per capita and appointment wait times are poor predictors of deprivation and life expectancy (urban local authorities only):**
   - GPs per Capita vs Deprivation: R² = 2.2% (p < 0.05)
   - GPs per Capita vs Life Expectancy: R² = 1.3% (not significant)  
   - Wait Times vs Deprivation: R² = 0.3% (not significant)
@@ -61,3 +64,30 @@ Investigating the role of GP surgeries in shaping health and social inequalities
 - PostgreSQL
 - Tableau Public
 ## Repository Structure
+```
+├── data/
+│   ├── processed/
+│   │   ├── final_gp_data.csv*
+│   │   └── final_lad_data.csv*
+│   ├── raw/
+│   │   ├── gp_practices_may2025.csv
+│   │   ├── gp_staff_headcounts.csv
+│   │   ├── gp_wait_times.csv
+│   │   ├── lad_deprivation_extract.csv
+│   │   ├── lad_rural_urban.csv
+│   │   ├── lad_to_region.csv
+│   │   ├── life_expectancy_at_birth_2023.csv
+│   │   └── population_england_2023.csv
+│   └── sql_queries/
+│       ├── 01_gp_table.sql
+│       ├── 02_gp_staff_table.sql
+│       ├── 03_gp_wait_times_table.sql
+│       ├── 04_postcodes_uk_table.sql
+│       ├── 05_final_gp_data.sql
+│       ├── 06_lad_deprivation.sql
+│       ├── 07_lad_life_expectancy.sql
+│       ├── 08_lad_population.sql
+│       ├── 09_lad_to_region.sql
+│       └── 10_final_lad_data.sql
+└── README.md
+```
