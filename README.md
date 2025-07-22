@@ -9,6 +9,9 @@ Investigating the role of GP surgeries in shaping health and social inequalities
 - To determine whether and to what extent GP surgery performance predicts deprivation and life expectancy at the local authority-level.
 - To determine differences in GP surgery composition across rural/urban and socioeconomic divides.
 - To create a tool, enabling users to investigate GP performance in their area.
+## Dashboard
+
+**[Access the Tableau dashboard here](https://public.tableau.com/app/profile/shivam.wadhia/viz/HealthcarePostcodeLottery/TheHealthcarePostcodeLottery)**
 
 ## Key Findings
 - **Substantial variation in GPs per capita and average appointment wait times:**
@@ -28,9 +31,6 @@ Investigating the role of GP surgeries in shaping health and social inequalities
   - GPs per Clinical Staff vs Life Expectancy: R² = 15.5% (p < 0.05)
   - GPs per Clinical Staff vs Wait Times: R² = 9.3% (p < 0.05)
 
-## Dashboard
-
-**[Access the Tableau dashboard here:](https://public.tableau.com/app/profile/shivam.wadhia/viz/HealthcarePostcodeLottery/TheHealthcarePostcodeLottery)**
  
 ## Data Sources
 **Local Authority-Level:**
