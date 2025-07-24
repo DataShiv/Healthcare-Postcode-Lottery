@@ -18,7 +18,10 @@ Investigating the role of GP surgeries in shaping health and social inequalities
   - GPs per capita (CV = 61%) and average appointment wait times (CV = 38%) are both widely-used healthcare metrics.
 
 - **Rural GP surgeries have more support staff per GP, longer appointment waits and greater rates of usage:**
-  - Rural areas tend to have older populations that require more frequent GP appointments. Poor transport connectivity and limited nearby hospitals mean that rural GP surgeries must conduct at-home visits and provide a broader range of services than their urban counterparts. **Please see the dashboard for more information.** 
+  - Rural areas tend to have older populations that require more frequent GP appointments. Poor transport connectivity and limited nearby hospitals mean that rural GP surgeries must conduct at-home visits and provide a broader range of services than their urban counterparts. **Please see the dashboard for more information.**
+
+- **Substitution of GPs with clinical support staff in deprived GP surgeries:**
+  - GP surgeries in the most deprived quintile have less GPs per clinical support staff than surgeries in the least deprived quintile, despite having greater total clinical capacities (sum of GPs, nurses and direct patient care staff). **Please see the dashboard for more information**.
 
 - **GPs per capita and appointment wait times are poor predictors of deprivation and life expectancy (urban local authorities only):**
   - GPs per Capita vs Deprivation: R² = 2.2% (p < 0.05)
@@ -31,6 +34,12 @@ Investigating the role of GP surgeries in shaping health and social inequalities
   - GPs per Clinical Staff vs Life Expectancy: R² = 15.5% (p < 0.05)
   - GPs per Clinical Staff vs Wait Times: R² = 9.3% (p < 0.05)
 
+## Policy Recommendations
+1. **GPs-to-clinical staff should be further explored in future health inequality** as it greatly outperforms traditionally-cited metrics like GPs per capita.
+2. **Adjust GP surgery-funding formulae to account for deprivation-related inequaility and staffing realities:** the currently-used Carr-Hill formula does not account for deprivation. Given the relationships between GPs-to-clinical staff with deprivation and life expectancy, more funding should be allocated to the most deprived GP surgeries **with the aim of increasing GPs per clinical staff**.
+3. **Incentivise GPs to work in deprived areas:** GPs in deprived areas are paid list and with the scrapping of the Targetted Enhanced Recruitment Scheme for 2025/2026 (a lumpsum payment of £20,000 for GP trainees in deprived areas), the inequality in terms of GPs-to-clinical staff between deprived and affluent areas may worsen.
+
+**Please see the dashboard for an exhaustive list of sources.**
  
 ## Data Sources
 **Local Authority-Level:**
