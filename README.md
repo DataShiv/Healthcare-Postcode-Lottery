@@ -11,7 +11,7 @@ Investigating the role of GP surgeries in shaping health and social inequalities
 - To create a tool, enabling users to investigate GP performance in their area.
 ## Dashboard
 
-**[Access the Tableau dashboard here](https://public.tableau.com/app/profile/shivam.wadhia/viz/HealthcarePostcodeLottery/TheHealthcarePostcodeLottery)**
+**[Access the Tableau dashboard here](https://public.tableau.com/app/profile/shivam.wadhia/viz/ToWhatExtentDoGPSurgeriesContributeToDifferencesInDeprivationLifeExpectancyInEnglandV3/DashboardV3)**
 
 ## Key Findings
 - **Substantial variation in GPs per capita and average appointment wait times:**
