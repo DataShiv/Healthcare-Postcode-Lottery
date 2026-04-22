@@ -37,7 +37,7 @@ Investigating the role of GP surgeries in shaping health and social inequalities
 ## Policy Recommendations
 1. **GPs-to-clinical staff should be further explored in future health inequality** as it greatly outperforms traditionally-cited metrics like GPs per capita.
 2. **Adjust GP surgery-funding formulae to account for deprivation-related inequaility and staffing realities:** the currently-used Carr-Hill formula does not account for deprivation. Given the relationships between GPs-to-clinical staff with deprivation and life expectancy, more funding should be allocated to the most deprived GP surgeries **with the aim of increasing GPs per clinical staff**.
-3. **Incentivise GPs to work in deprived areas:** GPs in deprived areas are paid list and with the scrapping of the Targetted Enhanced Recruitment Scheme for 2025/2026 (a lumpsum payment of £20,000 for GP trainees in deprived areas), the inequality in terms of GPs-to-clinical staff between deprived and affluent areas may worsen.
+3. **Incentivise GPs to work in deprived areas:** GPs in deprived areas are paid less and with the scrapping of the Targetted Enhanced Recruitment Scheme for 2025/2026 (a lumpsum payment of £20,000 for GP trainees in deprived areas), the inequality in terms of GPs-to-clinical staff between deprived and affluent areas may worsen.
 
 **Please see the dashboard for an exhaustive list of sources.**
  
